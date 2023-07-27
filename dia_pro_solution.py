@@ -1,3 +1,7 @@
+#diagnostic problem solution
+#Lab 1
+#Mysura Reddy Kuchuru 1317900 Introduction to Big Data
+
 message = input("enter a message") 
 mod_string = message + '!'
 length = len(mod_string)
